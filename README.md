@@ -36,7 +36,7 @@ This AI-powered assistant helps users search and articulate information from doc
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/4nw3r/liebe.git
-    cd ai-powered-assistant
+    cd leibe
     ```
 
 2. **Install Dependencies**:
