@@ -35,7 +35,7 @@ This AI-powered assistant helps users search and articulate information from doc
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/ai-powered-assistant.git
+    git clone https://github.com/4nw3r/liebe.git
     cd ai-powered-assistant
     ```
 
@@ -46,7 +46,7 @@ This AI-powered assistant helps users search and articulate information from doc
 
 3. **Run the Application**:
     ```bash
-    streamlit run ollama_api.py
+    streamlit run main.py
     ```
 
 ## Usage
@@ -55,7 +55,7 @@ This AI-powered assistant helps users search and articulate information from doc
 
 1. Run the Streamlit app:
     ```bash
-    streamlit run ollama_api.py
+    streamlit run main.py
     ```
 
 2. Open your browser and navigate to `http://localhost:8501`.
